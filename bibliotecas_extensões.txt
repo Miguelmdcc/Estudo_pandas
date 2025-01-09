@@ -1,0 +1,5 @@
+Bibliotecas
+    Pandas
+    Ydata_profiling
+Extensões
+    Data Wrangler
